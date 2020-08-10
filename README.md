@@ -2,7 +2,6 @@
 Example Work Manager Android Jetpack
 
 ## what's inside
------
 
 - OneTimeWorkRequest
 - PeriodicWorkRequest
