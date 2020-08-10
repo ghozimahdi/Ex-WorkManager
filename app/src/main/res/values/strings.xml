@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyWorkManager</string>
+    <string name="onetimework">One Time Work Request</string>
+    <string name="periodicwork">Periodic Work Request</string>
+    <string name="chainingWork">Chaining Work</string>
+    <string name="constraintsWork">Constraints Work</string>
+    <string name="startwork">Start Worker</string>
+    <string name="cancelwork">Cancel Worker</string>
+    <string name="status">status</string>
+</resources>
